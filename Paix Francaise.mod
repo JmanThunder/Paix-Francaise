@@ -1,0 +1,6 @@
+name = "Paix Française"
+path = "mod/Paix Francaise"
+user_dir = "Paix Francaise"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
